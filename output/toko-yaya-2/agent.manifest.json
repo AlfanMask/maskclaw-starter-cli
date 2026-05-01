@@ -1,0 +1,11 @@
+{
+  "agentId": "toko-yaya-2",
+  "name": "Elin",
+  "preset": "customer-support",
+  "owner": "Yaya",
+  "persona": "helpful and friendly",
+  "emoji": "🤖",
+  "model": "openai-codex",
+  "authMode": "copy-main",
+  "createdAt": "2026-05-01T14:58:56.939Z"
+}

@@ -1,0 +1,11 @@
+{
+  "agentId": "toko-test",
+  "name": "MaskClaw Agent",
+  "preset": "customer-support",
+  "owner": "Customer",
+  "persona": "helpful and friendly",
+  "emoji": "🤖",
+  "model": "openai-codex",
+  "authMode": "copy-main",
+  "createdAt": "2026-05-01T15:23:17.422Z"
+}

@@ -42,9 +42,9 @@ Example:
 
 ```bash
 node bin/maskclaw-agent.js new toko-yaya \
-  --name "Elin" \
-  --owner "Yaya" \
-  --persona "friendly, clear, and fast" \
+  --name "Bang Gery" \
+  --owner "Alfan" \
+  --persona "Funny, friendly, clear, smart, and just like human chatting. No new line, no bullet points, just like human normal and not bot" \
   --emoji "🌸" \
   --register \
   --copy-auth \

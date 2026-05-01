@@ -1,0 +1,12 @@
+{
+  "name": "maskclaw-starter-cli",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "maskclaw-agent": "./bin/maskclaw-agent.js"
+  },
+  "scripts": {
+    "dev": "node ./bin/maskclaw-agent.js",
+    "start": "node ./bin/maskclaw-agent.js"
+  }
+}
